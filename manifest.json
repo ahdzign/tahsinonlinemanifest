@@ -1,0 +1,38 @@
+{
+  "name": "Tahsin Online",
+  "short_name": "Tahsin Online",
+  "start_url": "https://www.tahsin.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01579b",
+  "description": "Blog yang membahas seputar Ilmu Tajwid dan informasi menarik lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s48/Favicontahsin512x512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s72/Favicontahsin512x512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s96/Favicontahsin512x512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s144/Favicontahsin512x512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s168/Favicontahsin512x512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s192/Favicontahsin512x512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qCpM8lFrEQ0/Xl76vz9AQqI/AAAAAAAAEzM/ijAgfTsTFs8P_2sUgOnK_-GUqRaXMVn9wCLcBGAsYHQ/s512/Favicontahsin512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
